@@ -1,11 +1,12 @@
-3aefbd3b2191ee3b45ea6da2606cc9ee *DESCRIPTION
+859ccc514295d9cd0f6c7e6eb06ebadc *DESCRIPTION
 d152dda005a5e85978ba8830a1086d2c *NAMESPACE
-2d31a4e3754d2833081acf828f90a736 *NEWS.md
+3bc30816f3d7607f5afaee102e6a8ba3 *NEWS.md
 29a5eb5e4a44a52232c6ef12100c4a57 *R/from_aml.R
 9f4c02566913ba3c5ee3604e0f2111da *R/googledoc.R
 080bcd493f9a40a026e020c971702310 *R/rchie-package.R
 09326e57349ef873d35cad62716aa354 *R/read_aml.R
-161f709fca7b66b1856ba13d2bc740c1 *README.md
+d50ef2af19501c91c3b8c0f11e61562f *README.md
+3ce327b2c7634c70148376ac4e80eb7f *inst/WORDLIST
 e30b94cbe70132b181f72f953fbb3c82 *inst/archieml-js/LICENSE
 90bb3aae7b01810a9e846138873d4550 *inst/archieml-js/README.md
 d34377f927e77993b111b29ad3125654 *inst/archieml-js/archieml.js
@@ -178,7 +179,7 @@ e1db4907901e2ba41f08068ddd9439d1 *tests/testthat/skip.5.aml
 e809d785f4dbb6b82ea088db94a98ff3 *tests/testthat/skip.8.aml
 4f100825a85e62738d785e2a08888986 *tests/testthat/skip.9.aml
 c49c996caae604b06790035c3eaa15b4 *tests/testthat/test-aml.R
-3285e9b643d0a9d39b76ad39c9d5bb3d *tests/testthat/test-gdoc.R
+fe32d1995fc07859934d986d9ff12067 *tests/testthat/test-gdoc.R
 d501f10ed1c28a9291708a136eb815af *tests/testthat/test-imports.R
 819dcb4f055f0b89c64a2cd08fe22720 *tests/testthat/unicode.1.aml
 fe5777c407a30f66c6e52bc87c0452c3 *tests/testthat/unicode.2.aml
