@@ -1,6 +1,6 @@
-859ccc514295d9cd0f6c7e6eb06ebadc *DESCRIPTION
+fecc5f322c95652a0a56374d6ee3d5ee *DESCRIPTION
 d152dda005a5e85978ba8830a1086d2c *NAMESPACE
-3bc30816f3d7607f5afaee102e6a8ba3 *NEWS.md
+4e5f92e221f951ac186fb20cae6f383a *NEWS.md
 29a5eb5e4a44a52232c6ef12100c4a57 *R/from_aml.R
 9f4c02566913ba3c5ee3604e0f2111da *R/googledoc.R
 080bcd493f9a40a026e020c971702310 *R/rchie-package.R
@@ -178,7 +178,7 @@ e1db4907901e2ba41f08068ddd9439d1 *tests/testthat/skip.5.aml
 73833fbd1397f8687b7f8789999dcce4 *tests/testthat/skip.7.aml
 e809d785f4dbb6b82ea088db94a98ff3 *tests/testthat/skip.8.aml
 4f100825a85e62738d785e2a08888986 *tests/testthat/skip.9.aml
-c49c996caae604b06790035c3eaa15b4 *tests/testthat/test-aml.R
+9c7dd97f09894b48cd1aa830bca9d822 *tests/testthat/test-aml.R
 fe32d1995fc07859934d986d9ff12067 *tests/testthat/test-gdoc.R
 d501f10ed1c28a9291708a136eb815af *tests/testthat/test-imports.R
 819dcb4f055f0b89c64a2cd08fe22720 *tests/testthat/unicode.1.aml

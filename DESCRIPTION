@@ -1,7 +1,7 @@
 Package: rchie
 Type: Package
 Title: A Parser for 'ArchieML'
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: c(
     person(given = "Noam",
            family = "Ross",
@@ -27,9 +27,9 @@ SystemRequirements: V8 <= 3.15: libv8-3.14-dev (deb), v8-314-devel
 LazyData: TRUE
 RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2019-05-05 19:02:03 UTC; noamross
+Packaged: 2019-05-07 16:40:28 UTC; noamross
 Author: Noam Ross [aut, cre] (<https://orcid.org/0000-0002-2136-0000>),
   Michael Strickland [aut] (Author of archieml-js library)
 Maintainer: Noam Ross <noam.ross@gmail.com>
 Repository: CRAN
-Date/Publication: 2019-05-05 19:20:03 UTC
+Date/Publication: 2019-05-07 22:11:19 UTC
